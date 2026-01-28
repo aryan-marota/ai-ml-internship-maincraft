@@ -17,6 +17,11 @@ Each task is organized in its own folder and includes code notebooks and reports
 - Performed EDA on the California Housing Dataset
 - Evaluated using MAE, RMSE, and R²
 
+### Task 2: Model Comparison for House Price Prediction
+- Trained multiple regression models
+- Compared performance using MAE, RMSE, and R²
+- Selected the best-performing model based on evaluation metrics
+
 (More tasks will be added weekly)
 
 ---

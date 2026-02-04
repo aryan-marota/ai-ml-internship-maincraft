@@ -22,6 +22,12 @@ Each task is organized in its own folder and includes code notebooks and reports
 - Compared performance using MAE, RMSE, and R²
 - Selected the best-performing model based on evaluation metrics
 
+### Task 3: Model Validation and Hyperparameter Tuning
+- Detected and analyzed overfitting
+- Used cross-validation for reliable evaluation
+- Applied GridSearchCV for hyperparameter tuning
+- Selected final model based on generalization performance
+
 (More tasks will be added weekly)
 
 ---

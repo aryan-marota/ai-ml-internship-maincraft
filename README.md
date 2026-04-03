@@ -28,7 +28,13 @@ Each task is organized in its own folder and includes code notebooks and reports
 - Applied GridSearchCV for hyperparameter tuning
 - Selected final model based on generalization performance
 
-(More tasks will be added weekly)
+### Task 4: Classification Model Evaluation
+- Built a binary classification model
+- Evaluated using precision, recall, F1-score, and ROC-AUC
+- Handled class imbalance using class weights
+- Compared Logistic Regression with Decision Tree
+
+
 
 ---
 
